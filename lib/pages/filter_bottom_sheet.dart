@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:hotelsgotask/components/custom_hotel_class.dart';
 import 'package:hotelsgotask/components/rating_button.dart';
 import 'package:hotelsgotask/consts.dart';
 
@@ -182,6 +183,37 @@ class _FilterBottomSheetState extends State<FilterBottomSheet> {
                   ),
                 ),
                 //Hotel calss
+                Padding(
+                  padding: const EdgeInsets.all(10),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      //text
+                      Text(
+                        'HOTEL CLASS',
+                        style: TextStyle(
+                          fontSize: 13.sp,
+                          fontWeight: FontWeight.bold,
+                          letterSpacing: 3,
+                        ),
+                      ),
+                      SizedBox(
+                        height: 5.h,
+                      ),
+
+                      //hotel class icon
+                      Padding(
+                        padding: const EdgeInsets.all(10),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: List.generate(
+                              5, (index) => CustomHotelClass(index: index + 1)),
+                        ),
+                      )
+                    ],
+                  ),
+                ),
+                //location
                 Padding(
                   padding: const EdgeInsets.all(10),
                   child: Column(

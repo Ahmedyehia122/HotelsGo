@@ -287,7 +287,7 @@ class HotelTile extends StatelessWidget {
                 style: TextStyle(
                   color: Colors.grey[600],
                   fontWeight: FontWeight.bold,
-                  fontSize: 18.sp,
+                  fontSize: 16.sp,
                   decoration: TextDecoration.underline,
                   decorationThickness: 2,
                 ),
