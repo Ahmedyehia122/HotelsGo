@@ -247,7 +247,9 @@ class _FilterBottomSheetState extends State<FilterBottomSheet> {
             color: Colors.white,
             child: MaterialButton(
               color: Colors.blue,
-              onPressed: () {},
+              onPressed: () {
+                //implementation (show results after filtering)
+              },
               child: Text(
                 'Show Results',
                 style: TextStyle(
