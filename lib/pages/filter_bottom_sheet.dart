@@ -169,14 +169,26 @@ class _FilterBottomSheetState extends State<FilterBottomSheet> {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceAround,
                         children: [
-                          RatingButton(color: Colors.red, ratingScore: '0.0+'),
-                          RatingButton(color: Colors.blue, ratingScore: '7.0+'),
                           RatingButton(
-                              color: Colors.green, ratingScore: '7.5+'),
+                            color: Colors.red,
+                            ratingScore: '0.0+',
+                          ),
                           RatingButton(
-                              color: Colors.amber, ratingScore: '8.0+'),
+                            color: Colors.blue,
+                            ratingScore: '7.0+',
+                          ),
                           RatingButton(
-                              color: Colors.greenAccent, ratingScore: '8.5+'),
+                            color: Colors.green,
+                            ratingScore: '7.5+',
+                          ),
+                          RatingButton(
+                            color: Colors.amber,
+                            ratingScore: '8.0+',
+                          ),
+                          RatingButton(
+                            color: Colors.greenAccent,
+                            ratingScore: '8.5+',
+                          ),
                         ],
                       )
                     ],
@@ -189,7 +201,7 @@ class _FilterBottomSheetState extends State<FilterBottomSheet> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       //text
-                      Text( 
+                      Text(
                         'HOTEL CLASS',
                         style: TextStyle(
                           fontSize: 13.sp,
