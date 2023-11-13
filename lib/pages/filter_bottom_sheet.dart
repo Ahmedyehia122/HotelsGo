@@ -189,7 +189,7 @@ class _FilterBottomSheetState extends State<FilterBottomSheet> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       //text
-                      Text(
+                      Text( 
                         'HOTEL CLASS',
                         style: TextStyle(
                           fontSize: 13.sp,
