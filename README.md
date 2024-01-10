@@ -28,11 +28,18 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/85c0d161-609e-404c-9a3c-18c9c9942a50" width="200" >
  </div>
 
- ## 🛠 Dependencies
+ ## 🧲 Dependencies
 
 
- ####  http: ^1.1.0
+ #### http: ^1.1.0
+  [http](https://pub.dev/packages/http) - A composable, Future-based library for making HTTP requests.
+This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform, and supports mobile, desktop, and the browser.
+
  #### flutter_screenutil: ^5.9.0
+  [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) - A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
+
+
+
  
 
 
