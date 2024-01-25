@@ -2,7 +2,8 @@
 
  A hotel booking application that allows users to easily find and reserve
   hotels.
- 
+  
+ <br/>
 
  ## 🚀 Getting Started
 
@@ -11,6 +12,8 @@
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/47af7775-3294-43be-b884-f9c955c467c2
 "></video>
 
+
+<br/>
 
  ## 🏖️ Screenshots 
  
@@ -28,6 +31,8 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/85c0d161-609e-404c-9a3c-18c9c9942a50" width="200" >
  </div>
 
+ <br/>
+
  ## 🧲 Dependencies
 
 
@@ -37,6 +42,30 @@ This package contains a set of high-level functions and classes that make it eas
 
  #### flutter_screenutil: ^5.9.0
   [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) - A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
+
+   <br/>
+   
+ ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+  
+ ## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+  
+  <br/>
+
 
 # 🌸🌸  Thank You For Your Time 🌸🌸
 
