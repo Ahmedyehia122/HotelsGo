@@ -7,6 +7,10 @@
 
  ## 🚀 Getting Started
 
+ <img src ="https://github.com/Ahmedyehia122/HotelsGoTask/assets/142153775/1406d0a1-7f4e-43bc-b04a-8b449ba859f2"  >
+ 
+  <br/>
+
  ## 📸 Screen Record
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/47af7775-3294-43be-b884-f9c955c467c2
@@ -55,8 +59,7 @@ This package contains a set of high-level functions and classes that make it eas
  ## 🤝Contact With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+ 
 
 <br/>
 
